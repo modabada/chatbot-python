@@ -1,0 +1,15 @@
+print(type(53))
+print(type(52.0))
+print(type(-53))
+
+
+print("5 + 7 =", 5 + 7)
+print("5 - 7 =", 5 - 7)
+print("5 * 7 =", 5 * 7)
+print("5 / 7 =", 5 / 7)
+print("5 / 7 =", 5 // 7)
+print("7 % 5 =", 7 % 5)
+print("2 ** 1 = ", 2 ** 1)
+print("2 ** 2 = ", 2 ** 2)
+print("2 ** 3 = ", 2 ** 3)
+print("2 ** 4 = ", 2 ** 4)
